@@ -1,3 +1,5 @@
+#From a Codecademy tutorial (http://www.codecademy.com)
+#Made by Hunter1471 (hunt3r1471@gmail.com)
 pyg = 'ay'
 
 original = raw_input('Enter a word:')
