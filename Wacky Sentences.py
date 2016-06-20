@@ -1,4 +1,4 @@
-#Made by Hunter1471(hunt3r1471@gmail.com)
+#Made by Hunter1471 (hunt3r1471@gmail.com)
 #Start 
 import random
 from random import randint
