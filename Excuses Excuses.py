@@ -1,4 +1,5 @@
 #Based off http://suyeon-son.com/sandbox/mad-libs.html
+#Made by Hunter1471 (hunt3r1471@gmail.com)
 print("Welcome to the Excuses, Excuses Storyteller!")
 
 #Names
