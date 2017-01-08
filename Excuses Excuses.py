@@ -25,7 +25,7 @@ disgusting = input("Type in the name of a disgusting object (e.g Bugs):")
 pastverb1 = input("Submit a verb in the past tense (e.g Poked):")
 pastverb2 = input("Submit another verb in the past tense(e.g Found):")
 pastverb3 = input("Submit a verb in the past tense(e.g Wrote):")
-presentverb = input("Submit a verb in the present tense:(e.g Found)")
+presentverb = input("Submit a verb in the present tense(e.g See):")
 
 #Occupation
 occupation = input("Give me the name of any occupation(e.g Janitor):")
